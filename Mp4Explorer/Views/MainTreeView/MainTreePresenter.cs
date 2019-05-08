@@ -121,7 +121,8 @@ namespace Mp4Explorer
             {
                 OpenFileDialog openFileDialog = new OpenFileDialog();
 
-                openFileDialog.Filter = "MP4 Files (*.mp4,*.m4a,*.ismv,*.mov,*.qlv)|*.mp4;*.m4a;*.ismv;*.mov;*.qlv|All Files (*.*)|*.*";
+                //openFileDialog.Filter = "MP4 Files (*.mp4,*.m4a,*.ismv,*.mov,*.qlv)|*.mp4;*.m4a;*.ismv;*.mov;*.qlv|All Files (*.*)|*.*";
+                openFileDialog.Filter = "MP4 Files (*.mp4,*.m4a,*.ismv,*.mov)|*.mp4;*.m4a;*.ismv;*.mov|All Files (*.*)|*.*";
                 openFileDialog.FilterIndex = 1;
 
                 if (openFileDialog.ShowDialog() == true)
