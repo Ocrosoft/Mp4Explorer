@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectType>local</ProjectType>
+    <ProjectVersion>7.10.377</ProjectVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F53B6EDC-59B9-436C-AD4E-9A83CF9F7D4E}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <AssemblyName>CMStream.Mp4</AssemblyName>
+    <OutputType>Library</OutputType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\Mp4Explorer\bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Compile Include="AssemblyInfo.cs" />
+    <Compile Include="CMStream\Mp4\Mp4Hvc1SampleEntry.cs" />
+    <Compile Include="CMStream\Mp4\Mp4HvccBox.cs" />
+    <Compile Include="Global.cs" />
+    <Compile Include="CMStream\Mp4\Mp4Movie.cs" />
+    <Compile Include="CMStream\Mp4\Mp4Box.cs" />
+    <Compile Include="CMStream\Mp4\Mp4FullBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4ElstBox.cs" />
+    <Compile Include="CMStream\Mp4\IMp4ContainerBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4ContainerBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4StblBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4SchmBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4SampleEntry.cs" />
+    <Compile Include="CMStream\Mp4\Mp4VisualSampleEntry.cs" />
+    <Compile Include="CMStream\Mp4\Mp4EncvSampleEntry.cs" />
+    <Compile Include="CMStream\Mp4\Mp4DrmiSampleEntry.cs" />
+    <Compile Include="CMStream\Mp4\Mp4TrexBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4BoxExtensions.cs" />
+    <Compile Include="CMStream\Mp4\Mp4StshBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4MetaDataSampleEntryBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4PdinBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4HinfBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4SnroBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4FdsaBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4DescriptorFactory.cs" />
+    <Compile Include="CMStream\Mp4\Mp4StscEntry.cs" />
+    <Compile Include="CMStream\Mp4\Mp4NmhdBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4Avc1SampleEntry.cs" />
+    <Compile Include="CMStream\Mp4\Mp4OdafBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4BtrtBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4MettBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4StslBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4DmaxBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4TrackType.cs" />
+    <Compile Include="CMStream\Mp4\Mp4SampleTable.cs" />
+    <Compile Include="CMStream\Mp4\Mp4CustomSampleTable.cs" />
+    <Compile Include="CMStream\Mp4\Mp4ObjectTypeIndication.cs" />
+    <Compile Include="CMStream\Mp4\Mp4EsIdRefDescriptor.cs" />
+    <Compile Include="CMStream\Mp4\Mp4SttsEntry.cs" />
+    <Compile Include="CMStream\Mp4\Mp4StcoBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4BoxType.cs" />
+    <Compile Include="CMStream\Mp4\Mp4CttsBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4MpegSystemSampleEntry.cs" />
+    <Compile Include="CMStream\Mp4\Mp4MfraBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4IodsBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4EsdsBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4ImifBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4MaxrBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4Track.cs" />
+    <Compile Include="CMStream\Mp4\Mp4HdlrBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4MvexBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4TfraBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4UdtaBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4MetxBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4TrpyBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4DrepBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4File.cs" />
+    <Compile Include="CMStream\Mp4\Mp4Exception.cs" />
+    <Compile Include="CMStream\Mp4\Mp4BoxSampleTable.cs" />
+    <Compile Include="CMStream\Mp4\Mp4AudioSampleEntry.cs" />
+    <Compile Include="CMStream\Mp4\Mp4EncaSampleEntry.cs" />
+    <Compile Include="CMStream\Mp4\Mp4IproBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4SbgpBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4PaspBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4MereBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4HntiBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4TpylBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4TpayBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4TminBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4TsroBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4IpmpDescriptorPointerDescriptor.cs" />
+    <Compile Include="CMStream\Mp4\Mp4EsIdIncDescriptor.cs" />
+    <Compile Include="CMStream\Mp4\Mp4Descriptor.cs" />
+    <Compile Include="CMStream\Mp4\Mp4EsDescriptor.cs" />
+    <Compile Include="CMStream\Mp4\Mp4TrakBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4StszBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4HmhdBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4HandlerType.cs" />
+    <Compile Include="CMStream\Mp4\Mp4ElstEntry.cs" />
+    <Compile Include="CMStream\Mp4\Mp4IsfmBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4RashBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4PdinEntry.cs" />
+    <Compile Include="CMStream\Mp4\Mp4MecoBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4ObjectDescriptor.cs" />
+    <Compile Include="CMStream\Mp4\Mp4TrunBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4StscBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4MpegAudioSampleEntry.cs" />
+    <Compile Include="CMStream\Mp4\Mp4GrpiBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4PitmBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4HintSampleEntryBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4NumpBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4Stream.cs" />
+    <Compile Include="CMStream\Mp4\Mp4IpmpDescriptorDescriptor.cs" />
+    <Compile Include="CMStream\Mp4\Mp4DecoderSpecificInfoDescriptor.cs" />
+    <Compile Include="CMStream\Mp4\Mp4VmhdBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4MpegVideoSampleEntry.cs" />
+    <Compile Include="CMStream\Mp4\Mp4MoofBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4FdpBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4FecrBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4UnknownDescriptor.cs" />
+    <Compile Include="CMStream\Mp4\Mp4TrefTypeBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4StssBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4RtpHintSampleEntry.cs" />
+    <Compile Include="CMStream\Mp4\Mp4FreeBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4DrefBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4Mp4sSampleEntry.cs" />
+    <Compile Include="CMStream\Mp4\Mp4FrmaBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4IlocBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4SrppBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4PaytBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4FparBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4StreamType.cs" />
+    <Compile Include="CMStream\Mp4\Mp4SLConfigDescriptor.cs" />
+    <Compile Include="CMStream\Mp4\Mp4DecoderConfigDescriptor.cs" />
+    <Compile Include="CMStream\Mp4\Mp4UnknownBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4SmhdBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4MdatBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4OdheBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4TfraEntry.cs" />
+    <Compile Include="CMStream\Mp4\Mp4DinfBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4CprtBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4TrefBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4VisualRollRecoveryEntry.cs" />
+    <Compile Include="CMStream\Mp4\Mp4DescriptorTag.cs" />
+    <Compile Include="CMStream\Mp4\Mp4UuidBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4NameBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4MoovBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4MdhdBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4CttsEntry.cs" />
+    <Compile Include="CMStream\Mp4\Mp4NpckBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4PmaxBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4FiinBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4Util.cs" />
+    <Compile Include="CMStream\Mp4\Mp4Mpeg4AudioObjectType.cs" />
+    <Compile Include="CMStream\Mp4\Mp4TimsBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4MfhdBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4FtypBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4Mp4aSampleEntry.cs" />
+    <Compile Include="CMStream\Mp4\Mp48bdlBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4SinfBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4BxmlBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4TotlBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4SegrBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4InitialObjectDescriptor.cs" />
+    <Compile Include="CMStream\Mp4\Mp4TfhdBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4StsdBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4RtpBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4IkmsBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4MfroBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4SubsBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4ClapBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4ExtrBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4DimmBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4DmedBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4PaenBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4FileStream.cs" />
+    <Compile Include="CMStream\Mp4\Mp4SdpBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4AvccBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp48idBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4IsltBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4MetaBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4TmaxBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4UrlBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4TrunEntry.cs" />
+    <Compile Include="CMStream\Mp4\Mp4SttsBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4MinfBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4MdiaBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4OhdrBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4Stz2Box.cs" />
+    <Compile Include="CMStream\Mp4\Mp4IpmcBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4SchiBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4IinfBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4GitnBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4SubStream.cs" />
+    <Compile Include="CMStream\Mp4\Mp4Sample.cs" />
+    <Compile Include="CMStream\Mp4\Mp4BoxFactory.cs" />
+    <Compile Include="CMStream\Mp4\Mp4TrafBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4OddaBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4MehdBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4TselBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4UrnBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4StdpBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4AudioRollRecoveryEntry.cs" />
+    <Compile Include="CMStream\Mp4\Mp4TkhdBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4SdtpEntry.cs" />
+    <Compile Include="CMStream\Mp4\Mp4SdtpBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4MvhdBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4Mp4vSampleEntry.cs" />
+    <Compile Include="CMStream\Mp4\Mp4Co64Box.cs" />
+    <Compile Include="CMStream\Mp4\Mp4EdtsBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4DrmsSampleEntry.cs" />
+    <Compile Include="CMStream\Mp4\Mp4PadbBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4SgpdBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4XmlBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4SrtpBox.cs" />
+    <Compile Include="CMStream\Mp4\Mp4FdpaBox.cs" />
+  </ItemGroup>
+</Project>

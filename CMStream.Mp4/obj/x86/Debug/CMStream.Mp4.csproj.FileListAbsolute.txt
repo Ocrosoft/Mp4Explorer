@@ -1,0 +1,16 @@
+C:\Users\tianyangli\Desktop\mp4explorer\src\CMStream.Mp4\bin\Debug\CMStream.Mp4.dll
+C:\Users\tianyangli\Desktop\mp4explorer\src\CMStream.Mp4\bin\Debug\CMStream.Mp4.pdb
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\bin\Debug\CMStream.Mp4.dll
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\bin\Debug\CMStream.Mp4.pdb
+C:\Users\tianyangli\Desktop\mp4explorer\src\CMStream.Mp4\obj\x86\Debug\CMStream.Mp4.csprojAssemblyReference.cache
+C:\Users\tianyangli\Desktop\mp4explorer\src\CMStream.Mp4\obj\x86\Debug\CMStream.Mp4.csproj.CoreCompileInputs.cache
+C:\Users\tianyangli\Desktop\mp4explorer\src\CMStream.Mp4\obj\x86\Debug\CMStream.Mp4.dll
+C:\Users\tianyangli\Desktop\mp4explorer\src\CMStream.Mp4\obj\x86\Debug\CMStream.Mp4.pdb
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\bin\x86\Debug\CMStream.Mp4.dll
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\bin\x86\Debug\CMStream.Mp4.pdb
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\bin\x86\Debug\CMStream.Mp4.dll
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\bin\x86\Debug\CMStream.Mp4.pdb
+C:\Program Files (x86)\mp4explorer\src\CMStream.Mp4\obj\x86\Debug\CMStream.Mp4.csprojAssemblyReference.cache
+C:\Program Files (x86)\mp4explorer\src\CMStream.Mp4\obj\x86\Debug\CMStream.Mp4.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\mp4explorer\src\CMStream.Mp4\obj\x86\Debug\CMStream.Mp4.dll
+C:\Program Files (x86)\mp4explorer\src\CMStream.Mp4\obj\x86\Debug\CMStream.Mp4.pdb

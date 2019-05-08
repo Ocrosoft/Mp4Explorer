@@ -1,0 +1,236 @@
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\bin\x86\Debug\Mp4Explorer.exe
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\bin\x86\Debug\Mp4Explorer.pdb
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\bin\x86\Debug\Microsoft.Practices.Composite.dll
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\bin\x86\Debug\Microsoft.Practices.Composite.Presentation.dll
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\bin\x86\Debug\Microsoft.Practices.Composite.UnityExtensions.dll
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\bin\x86\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\bin\x86\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\bin\x86\Debug\Microsoft.Practices.Unity.dll
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\bin\x86\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\bin\x86\Debug\CMStream.Mp4.pdb
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\bin\x86\Debug\Microsoft.Practices.Composite.xml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\bin\x86\Debug\Microsoft.Practices.Composite.Presentation.xml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\bin\x86\Debug\Microsoft.Practices.Composite.UnityExtensions.xml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\bin\x86\Debug\Microsoft.Practices.ObjectBuilder2.xml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\bin\x86\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\bin\x86\Debug\Microsoft.Practices.Unity.xml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\bin\x86\Debug\Microsoft.WindowsAzure.StorageClient.xml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Mp4Explorer.csprojAssemblyReference.cache
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\AVC\AvccView.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\MovieFragments\MehdView.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\MovieFragments\MfroView.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\MovieFragments\MoofView.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\MovieFragments\TfraView.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\MovieFragments\MfraView.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\MdatView.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\PdinView.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\MP4\IodsView.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackDataLayout\Co64View.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackDataLayout\StcoView.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackDataLayout\StscView.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackMedia\HmhdView.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackMedia\NmhdView.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackTime\StssView.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackTime\SdtpView.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackTime\CttsView.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackTime\SttsView.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\Track\TrefTypeView.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\Track\TrakView.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\Movie\MoovView.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Windows\AboutBoxWindow.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackDataLayout\UrlView.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackDataLayout\StszView.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackMedia\SmhdView.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\MovieFragments\TrunView.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\MovieFragments\TfhdView.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\MovieFragments\MfhdView.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\MovieFragments\TrexView.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackMedia\HdlrView.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackMedia\MdhdView.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackTime\ElstView.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\Track\TkhdView.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\FtypView.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\Movie\MvhdView.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\MainTreeView\MainTreeView.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\MainView\MainView.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackMedia\VmhdView.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Windows\ConvertVideoToMp4Window.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Windows\CreateFixedOffsetWindow.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Windows\ErrorWindow.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Windows\ProgressWindow.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Windows\UploadToAzureWindow.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\AVC\AvccView.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\MovieFragments\MehdView.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\MovieFragments\MfroView.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\MovieFragments\MoofView.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\MovieFragments\TfraView.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\MovieFragments\MfraView.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\MdatView.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\PdinView.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\MP4\IodsView.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackDataLayout\Co64View.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackDataLayout\StcoView.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackDataLayout\StscView.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackMedia\HmhdView.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackMedia\NmhdView.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackTime\StssView.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackTime\SdtpView.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackTime\CttsView.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackTime\SttsView.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\Track\TrefTypeView.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\Track\TrakView.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\Movie\MoovView.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Windows\AboutBoxWindow.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Shell.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackDataLayout\UrlView.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackDataLayout\StszView.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackMedia\SmhdView.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\MovieFragments\TrunView.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\MovieFragments\TfhdView.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\MovieFragments\MfhdView.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\MovieFragments\TrexView.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackMedia\HdlrView.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackMedia\MdhdView.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackTime\ElstView.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\Track\TkhdView.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\FtypView.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\Movie\MvhdView.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\MainTreeView\MainTreeView.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\MainView\MainView.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackMedia\VmhdView.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Windows\ConvertVideoToMp4Window.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Windows\CreateFixedOffsetWindow.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Windows\ErrorWindow.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Windows\ProgressWindow.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Windows\UploadToAzureWindow.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\App.g.cs
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Mp4Explorer_MarkupCompile.cache
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Mp4Explorer_MarkupCompile.lref
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Shell.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Mp4Explorer.g.resources
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Mp4Explorer.Properties.Resources.resources
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Mp4Explorer.csproj.GenerateResource.cache
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Mp4Explorer.csproj.CoreCompileInputs.cache
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Mp4Explorer.csproj.CopyComplete
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Mp4Explorer.exe
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Mp4Explorer.pdb
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\HVC\HvccView.baml
+C:\Users\tianyangli\Desktop\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\HVC\HvccView.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\bin\x86\Debug\Mp4Explorer.exe
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\bin\x86\Debug\Mp4Explorer.pdb
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\bin\x86\Debug\Microsoft.Practices.Composite.dll
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\bin\x86\Debug\Microsoft.Practices.Composite.Presentation.dll
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\bin\x86\Debug\Microsoft.Practices.Composite.UnityExtensions.dll
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\bin\x86\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\bin\x86\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\bin\x86\Debug\Microsoft.Practices.Unity.dll
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\bin\x86\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\bin\x86\Debug\CMStream.Mp4.pdb
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\bin\x86\Debug\Microsoft.Practices.Composite.xml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\bin\x86\Debug\Microsoft.Practices.Composite.Presentation.xml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\bin\x86\Debug\Microsoft.Practices.Composite.UnityExtensions.xml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\bin\x86\Debug\Microsoft.Practices.ObjectBuilder2.xml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\bin\x86\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\bin\x86\Debug\Microsoft.Practices.Unity.xml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\bin\x86\Debug\Microsoft.WindowsAzure.StorageClient.xml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Mp4Explorer.csprojAssemblyReference.cache
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\HVC\HvccView.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\AVC\AvccView.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\MovieFragments\MehdView.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\MovieFragments\MfroView.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\MovieFragments\MoofView.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\MovieFragments\TfraView.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\MovieFragments\MfraView.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\MdatView.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\PdinView.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\MP4\IodsView.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackDataLayout\Co64View.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackDataLayout\StcoView.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackDataLayout\StscView.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackMedia\HmhdView.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackMedia\NmhdView.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackTime\StssView.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackTime\SdtpView.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackTime\CttsView.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackTime\SttsView.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\Track\TrefTypeView.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\Track\TrakView.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\Movie\MoovView.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Windows\AboutBoxWindow.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackDataLayout\UrlView.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackDataLayout\StszView.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackMedia\SmhdView.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\MovieFragments\TrunView.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\MovieFragments\TfhdView.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\MovieFragments\MfhdView.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\MovieFragments\TrexView.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackMedia\HdlrView.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackMedia\MdhdView.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackTime\ElstView.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\Track\TkhdView.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\FtypView.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\Movie\MvhdView.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\MainTreeView\MainTreeView.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\MainView\MainView.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackMedia\VmhdView.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Windows\ConvertVideoToMp4Window.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Windows\CreateFixedOffsetWindow.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Windows\ErrorWindow.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Windows\ProgressWindow.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Windows\UploadToAzureWindow.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\HVC\HvccView.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\AVC\AvccView.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\MovieFragments\MehdView.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\MovieFragments\MfroView.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\MovieFragments\MoofView.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\MovieFragments\TfraView.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\MovieFragments\MfraView.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\MdatView.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\PdinView.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\MP4\IodsView.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackDataLayout\Co64View.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackDataLayout\StcoView.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackDataLayout\StscView.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackMedia\HmhdView.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackMedia\NmhdView.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackTime\StssView.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackTime\SdtpView.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackTime\CttsView.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackTime\SttsView.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\Track\TrefTypeView.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\Track\TrakView.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\Movie\MoovView.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Windows\AboutBoxWindow.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Shell.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackDataLayout\UrlView.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackDataLayout\StszView.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackMedia\SmhdView.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\MovieFragments\TrunView.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\MovieFragments\TfhdView.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\MovieFragments\MfhdView.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\MovieFragments\TrexView.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackMedia\HdlrView.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackMedia\MdhdView.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackTime\ElstView.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\Track\TkhdView.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\FtypView.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\Movie\MvhdView.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\MainTreeView\MainTreeView.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\MainView\MainView.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Views\BoxViews\ISO\TrackMedia\VmhdView.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Windows\ConvertVideoToMp4Window.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Windows\CreateFixedOffsetWindow.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Windows\ErrorWindow.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Windows\ProgressWindow.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Windows\UploadToAzureWindow.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\App.g.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Mp4Explorer_MarkupCompile.cache
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Mp4Explorer_MarkupCompile.lref
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Shell.baml
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Mp4Explorer.g.resources
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Mp4Explorer.Properties.Resources.resources
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Mp4Explorer.csproj.GenerateResource.cache
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Mp4Explorer.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Mp4Explorer.csproj.CopyComplete
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Mp4Explorer.exe
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\Mp4Explorer.pdb

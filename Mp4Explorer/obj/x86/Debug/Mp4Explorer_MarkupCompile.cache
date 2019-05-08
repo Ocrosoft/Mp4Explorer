@@ -1,0 +1,20 @@
+﻿Mp4Explorer
+
+
+winexe
+C#
+.cs
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\obj\x86\Debug\
+Mp4Explorer
+none
+false
+DEBUG;TRACE
+C:\Program Files (x86)\mp4explorer\src\Mp4Explorer\App.xaml
+45-2002719436
+
+84460977756
+17-1200993062
+Views\BoxViews\HVC\HvccView.xaml;Views\BoxViews\AVC\AvccView.xaml;Views\BoxViews\ISO\MovieFragments\MehdView.xaml;Views\BoxViews\ISO\MovieFragments\MfroView.xaml;Views\BoxViews\ISO\MovieFragments\MoofView.xaml;Views\BoxViews\ISO\MovieFragments\TfraView.xaml;Views\BoxViews\ISO\MovieFragments\MfraView.xaml;Views\BoxViews\ISO\MdatView.xaml;Views\BoxViews\ISO\PdinView.xaml;Views\BoxViews\MP4\IodsView.xaml;Views\BoxViews\ISO\TrackDataLayout\Co64View.xaml;Views\BoxViews\ISO\TrackDataLayout\StcoView.xaml;Views\BoxViews\ISO\TrackDataLayout\StscView.xaml;Views\BoxViews\ISO\TrackMedia\HmhdView.xaml;Views\BoxViews\ISO\TrackMedia\NmhdView.xaml;Views\BoxViews\ISO\TrackTime\StssView.xaml;Views\BoxViews\ISO\TrackTime\SdtpView.xaml;Views\BoxViews\ISO\TrackTime\CttsView.xaml;Views\BoxViews\ISO\TrackTime\SttsView.xaml;Views\BoxViews\ISO\Track\TrefTypeView.xaml;Views\BoxViews\ISO\Track\TrakView.xaml;Views\BoxViews\ISO\Movie\MoovView.xaml;Windows\AboutBoxWindow.xaml;Shell.xaml;Views\BoxViews\ISO\TrackDataLayout\UrlView.xaml;Views\BoxViews\ISO\TrackDataLayout\StszView.xaml;Views\BoxViews\ISO\TrackMedia\SmhdView.xaml;Views\BoxViews\ISO\MovieFragments\TrunView.xaml;Views\BoxViews\ISO\MovieFragments\TfhdView.xaml;Views\BoxViews\ISO\MovieFragments\MfhdView.xaml;Views\BoxViews\ISO\MovieFragments\TrexView.xaml;Views\BoxViews\ISO\TrackMedia\HdlrView.xaml;Views\BoxViews\ISO\TrackMedia\MdhdView.xaml;Views\BoxViews\ISO\TrackTime\ElstView.xaml;Views\BoxViews\ISO\Track\TkhdView.xaml;Views\BoxViews\ISO\FtypView.xaml;Views\BoxViews\ISO\Movie\MvhdView.xaml;Views\MainTreeView\MainTreeView.xaml;Views\MainView\MainView.xaml;Views\BoxViews\ISO\TrackMedia\VmhdView.xaml;Windows\ConvertVideoToMp4Window.xaml;Windows\CreateFixedOffsetWindow.xaml;Windows\ErrorWindow.xaml;Windows\ProgressWindow.xaml;Windows\UploadToAzureWindow.xaml;
+
+False
+
